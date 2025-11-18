@@ -1,4 +1,7 @@
-## Hi there 👋
+### Hey, I’m Ramit (aka `ramituncc49er`) 👋
+
+- I am interested at problems with **statistical ML** and **deep learning**, especially anything in **NLP** and **LLMs**.  
+- 👀 Right now I’m diving deeper into **RAG** and **AI agents** – trying to make models that don’t just sound smart, but actually *use* information smartly.
 
 <!--
 **ramituncc49er/ramituncc49er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
