@@ -1,6 +1,7 @@
 ### Hey, I’m Ramit (aka `ramituncc49er`) 👋
 
-- I am interested at problems with **statistical ML** and **deep learning**, especially anything in **NLP** and **LLMs**.  
+- I am interested at problems with **statistical ML** and **deep learning**, especially anything in **NLP** and **LLMs**.
+- My work during my master’s thesis focused on **serendipitous recommendations** using LLMs.
 - Right now I’m diving deeper into **RAG** and **AI agents** – trying to make models that don’t just sound smart, but actually *use* information smartly.
 - I’m also looking to learn **MLOps / AIOps / LLMOps**.
 
