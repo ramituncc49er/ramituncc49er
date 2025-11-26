@@ -1,7 +1,7 @@
 ### Hey, I’m Ramit (aka `ramituncc49er`) 👋
 
 - Interested in problems for **statistical ML** and **deep learning**, especially anything in **NLP** and **LLMs**.
-- My work during my master’s thesis focused on **serendipitous recommendations** using LLMs.
+- My work during my master’s thesis focused on **serendipitous recommendations** using LLMs (introduced ATARS, a novel framework).
 - Currently diving deeper into scalable system designs for **RAG**-based and **Agentic AI** applications.
 
 <!--
